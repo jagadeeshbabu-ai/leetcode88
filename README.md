@@ -91,8 +91,6 @@ No additional data structures are used.
 
 ---
 
-### Author
 
-Jagadeesh
 
 LeetCode Problem #88 - Merge Sorted Array
